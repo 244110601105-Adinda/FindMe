@@ -2,7 +2,7 @@
 $host = "localhost";
 $username = "root";
 $password = "";
-$database = "findmedb";
+$database = "uasweb";
 
 $conn = mysqli_connect($host, $username, $password, $database);
 
